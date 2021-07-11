@@ -5,7 +5,7 @@
 Hi, I'm Vishal, a passionate self-taught developer from India.
 
 - 🔭 I’m currently working on [Yarn](https://github.com/VishalLahane/yarn)
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/VishalLahane/yarn)
 - 💬 Ask me about anything [here](https://github.com/VishalLahane/VishalLahane/issues)
 
@@ -26,4 +26,5 @@ Hi, I'm Vishal, a passionate self-taught developer from India.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VishalLahane&layout=compact&theme=vue" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=VishalLahane)
 
