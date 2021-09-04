@@ -1,14 +1,21 @@
-### Hi there, I'm [Vishal!](https://github.com/VishalLahane) 👋 ![](https://komarev.com/ghpvc/?username=VishalLahane)
+### Hi there, I'm :ringed_planet: [Vishal!](https://github.com/VishalLahane) 👋 ![](https://komarev.com/ghpvc/?username=VishalLahane)
 
 
 
 
 Hi, I'm Vishal, a passionate self-taught developer from India.
 
-- 🔭 I’m currently working on [Python](https://github.com/VishalLahane/matploatlib_visual_data)
-- 🌱 I’m currently learning [NodeJS](https://www.w3schools.com/nodejs/)
+<!-- - 🔭 I’m currently working on [Python](https://github.com/VishalLahane/matploatlib_visual_data)
 - 👯 I’m looking to collaborate on [Python Examples using matploatlib](https://github.com/VishalLahane/matploatlib_visual_data)
+-->
+- 🌱 I’m currently learning [NodeJS](https://www.w3schools.com/nodejs/)
+- :cloud: Focusing on cloud tech
+- :waxing_crescent_moon: Love to contribute in open source projects 
 - 💬 Ask me about anything [here](https://github.com/VishalLahane/VishalLahane/issues)
+
+``` Quote: ``` <br />
+:trophy: ```  "You don't loose fight because you fall,``` <br />
+:hourglass: ```  You loose  the fight because you refuse to raise" ```
 
 
 
