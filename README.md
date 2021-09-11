@@ -8,7 +8,7 @@ Hi, I'm Vishal, a passionate self-taught developer from India.
 <!-- - 🔭 I’m currently working on [Python](https://github.com/VishalLahane/matploatlib_visual_data)
 - 👯 I’m looking to collaborate on [Python Examples using matploatlib](https://github.com/VishalLahane/matploatlib_visual_data)
 -->
-- 🌱 I’m currently writting blogs and some learning.
+- 🌱 I’m currently writing blogs and some learning.
 - :cloud: Focusing on cloud tech
 - :waxing_crescent_moon: Love to contribute in open source projects 
 - 💬 Ask me about anything [here](https://github.com/VishalLahane/VishalLahane/issues)
