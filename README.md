@@ -1,4 +1,4 @@
-### Hi there, I'm :ringed_planet: [Vishal!](https://github.com/VishalLahane) 👋 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=VishalLahane&color=00df00)
+### Hi there, I'm :ringed_planet: [Vishal!](https://github.com/VishalLahane)
 
 
 
